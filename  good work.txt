@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4CBE-52E9
+
+ Directory of C:\Users\UGANDA\database-management-exercise-01\sample2
+
+13/10/2026  20:13    <DIR>          .
+13/10/2026  20:11    <DIR>          ..
+13/10/2026  20:13                 0 demo2.txt
+               1 File(s)              0 bytes
+               2 Dir(s)     522,543,104 bytes free
