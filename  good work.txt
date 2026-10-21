@@ -8,3 +8,4 @@
 13/10/2026  20:13                 0 demo2.txt
                1 File(s)              0 bytes
                2 Dir(s)     522,543,104 bytes free
+this was an output for sample2
